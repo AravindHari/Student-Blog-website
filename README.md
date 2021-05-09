@@ -1,7 +1,7 @@
 # Student-Blog-website
 A Flask application for student management where students can post thier doubts and queries and faculties can post the material links and start new courses.
-# Check the webiste hosted here: https://studentmanaging.herokuapp.com/home
-# Features
+### Check the webiste hosted here: https://studentmanaging.herokuapp.com/home
+## Features
 1) Login/Logout
 2) New Registrations
 3) PRofile Picture setting up
